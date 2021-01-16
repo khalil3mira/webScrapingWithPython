@@ -9,5 +9,11 @@ This project use python and BeautifulSoup to scraping data from jumia with pagin
 
 To start this project follow the steps bellow : 
 
+<<<<<<< HEAD
  1- install the library selenium : pip install selenium
  2- install the library BeautifulSoup : pip install BeautifulSoup4 
+=======
+ 1- install the library selenium : pip install selenium <br>
+ 2- install the library BeautifulSoup : pip install BeautifulSoup4 
+
+>>>>>>> 3f04efe (init commit)
