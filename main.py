@@ -179,7 +179,7 @@ df["Description Téchnique"]=pd.Series(clean_list_li(Des))
 df["Réduction"]=pd.Series(clean_text(Discount))
 df["Prix avec réduction"]=pd.Series(clean_text(Prix))
 df["Commentaires"]=pd.Series(clean_coms(Numcmts))
-df["lien"]=pd.Series(clean_link)
+df["lien"]=pd.Series(clean_links)
 
 df.to_excel('jumia_'+search_query+'.xlsx', sheet_name='Sheet1')
 df.to_csv ('jumia_'+search_query+'.csv', index = False, header=True)
