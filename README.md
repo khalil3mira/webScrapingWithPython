@@ -5,7 +5,7 @@
 
 This project use python and BeautifulSoup to scraping data from jumia with pagination in google search 
 
-## start
+## Start
 
 To start this project follow the steps bellow : 
 
